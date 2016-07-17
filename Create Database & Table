@@ -2,4 +2,4 @@ CREATE TABLE `dbpaging`.`tbl_tutorials` (
 `tuts_id` INT( 11 ) NOT NULL AUTO_INCREMENT PRIMARY KEY ,
 `tuts_title` VARCHAR( 100 ) NOT NULL ,
 `tuts_link` VARCHAR( 200 ) NOT NULL 
-) ENGINE = MYISAM ;
+) ENGINE = MYISAM ; .
